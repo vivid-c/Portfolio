@@ -16,7 +16,7 @@ const lines =[
    {text : "Learning AI ",delay:800,typewriter:true},
    {text:"One of the Founders of <a href='https://genzattire.in' class='link' target='_blank'>GenzAttire</a>",delay:900,glow:true},
     { text: "<br><strong>PROJECTS:</strong>", delay: 1000 },
-  { text: "🖥 Portfolio Terminal → <a href='https://your-live-link.com' class='link' target='_blank'>Live</a>", delay: 800 },
+  { text: "🖥 Portfolio Terminal → <a href='https://vivid-c.github.io/Portfolio/' class='link' target='_blank'>Live</a>", delay: 800 },
   { text: "🛒 GenzAttire Clothing Store → <a href='https://genzattire.in' class='link' target='_blank'>GenzAttire</a>", delay: 800 },
   { text:"CONNECT!",delay:2000,typewriter:true},
   {text:"That's It.",delay:1000,typewriter:true},
