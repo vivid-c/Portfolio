@@ -7,20 +7,19 @@ const lines =[
    {
   text: "<span class='hero-name'>I'm V.</span> <br>A second year CS Student (BCA)",
   delay: 1200,
-  typewriter: true,
   glow: true
 },
    { text: "<strong>Skills: HTML, CSS, JavaScript, Python</strong>", delay: 800},
    { text: "GitHub → <a href='https://github.com/vivid-c' class='link' target='_blank'>github.com/vivid-c</a>", delay: 800 },
    { text: "LinkedIn→ <a href='https://github.com/vivid-c' class='link' target='_blank'>github.com/vivid-c</a>", delay: 800 },
    {text : "Learning AI ",delay:800,typewriter:true},
-   {text:"One of the Founders of <a href='https://genzattire.in' class='link' target='_blank'>GenzAttire</a>",delay:900,typewriter:true,glow:true},
+   {text:"One of the Founders of <a href='https://genzattire.in' class='link' target='_blank'>GenzAttire</a>",delay:900,glow:true},
     { text: "<br><strong>PROJECTS:</strong>", delay: 1000 },
   { text: "🖥 Portfolio Terminal → <a href='https://your-live-link.com' class='link' target='_blank'>Live</a>", delay: 800 },
   { text: "🛒 GenzAttire Clothing Store → <a href='https://genzattire.in' class='link' target='_blank'>GenzAttire</a>", delay: 800 },
   { text:"CONNECT!",delay:2000,typewriter:true},
   {text:"That's It.",delay:1000,typewriter:true},
-  {text:"<strong>BYE</strong>",typewriter:true,delay:800},
+  {text:"<strong>BYE</strong>",delay:800},
   
 
    { text: "<span class='cursor'></span>", delay: 500, cursor: true }
