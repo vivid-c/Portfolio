@@ -5,8 +5,9 @@ const lines =[
    {text:"$ Intializing",delay:800},
    {text:"Hey there..",delay:1000,typewriter:true},
    {
-  text: "<span class='hero-name'>I'm V.</span> <br>A second year CS Student (BCA)",
+  text: "I'm V. A second year CS Student (BCA)",
   delay: 1200,
+  typewriter:true,
   glow: true
 },
    { text: "<strong>Skills: HTML, CSS, JavaScript, Python</strong>", delay: 800},
@@ -19,7 +20,7 @@ const lines =[
   { text: "🛒 GenzAttire Clothing Store → <a href='https://genzattire.in' class='link' target='_blank'>GenzAttire</a>", delay: 800 },
   { text:"CONNECT!",delay:2000,typewriter:true},
   {text:"That's It.",delay:1000,typewriter:true},
-  {text:"<strong>BYE</strong>",delay:800},
+  {text:"BYE",delay:800,typewriter:true},
   
 
    { text: "<span class='cursor'></span>", delay: 500, cursor: true }
